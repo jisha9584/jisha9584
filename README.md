@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jisha9584
+- 👋 Hi, I’m Jisha Goyal
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me jisha9584@gmail.com
